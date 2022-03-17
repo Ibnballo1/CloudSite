@@ -122,7 +122,7 @@ img {
 
 .stats-heading {
     max-width: 500px;
-    margin: auto;
+    margin: 1rem auto;
 }
 
 .stats .grid h3 {
